@@ -1,0 +1,79 @@
+#pagetitle{
+	color:white;
+	font-size:40pt;
+	text-align:center;
+	font-family: "HelveticaNeue-Ultralight", "Helvetica Neue  Ultralight", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  	
+}
+body{
+	background-color:black;
+}
+#links{
+	color:white;
+	font-size:28pt;
+	text-align:center;
+	font-family: "HelveticaNeue-Ultralight", "Helvetica Neue Ultralight", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  	text-decoration:none;
+}
+
+#footer {
+	position: absolute;
+	bottom: -2;
+	width: 100%;
+	height: 50px;
+	overflow: hidden;
+	background-color: rgba(1,0,1,0.8);
+	font-size:16pt;
+	color: #FFF;
+	text-align:right;
+	font-family: "HelveticaNeue-Ultralight", "Helvetica Neue Ultralight", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+#text{
+	color:white;
+	font-size:16pt;
+	text-align:center;
+	font-family: "HelveticaNeue-Ultralight", "Helvetica Neue Ultralight", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  	
+}
+a{
+	text-decoration:none;
+	color:#0066FF;
+}
+IMG.displayed{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border: 8px solid #000;
+	border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	-webkit-transform: scale(0.8)
+
+}
+#h2{
+	color:#0066ff;
+	font-size:20pt;
+	text-align:left;
+
+	font-family: "HelveticaNeue-Ultralight", "Helvetica Neue  Ultralight", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+#text2{
+	margin-left:auto;
+	margin-right:auto;
+	border:100px solid #000;
+	color:white;
+	font-size:16pt;
+	text-align:left;
+	font-family: "HelveticaNeue-Ultralight", "Helvetica Neue Ultralight", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  	
+}
+  	
+	
+	
+	
