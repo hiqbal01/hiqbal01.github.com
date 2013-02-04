@@ -6,24 +6,23 @@
 <link rel = "stylesheet" media = "(max-device-width: 960px)" href = "mobilesheet.css" />
 <link rel = "stylesheet" media = "(min-device-width: 961px)" href = "desksheet.css" />
 </head>
-<body>
 <div id="pagetitle">
 <p>Haris Iqbal</p>
 </div>
-<img class="displayed" src="me2.jpg" alt="@Mocca Coffee, Islamabad 2011">
+<img class="displayed" src="me2.jpg">
+<body>
 <div id="links">
 <a href="bio.html">Biography</a>
-<p></p>
+</br>
 <a href="resume.html">Resume</a>
 </div>
 
 
-
-<div id="footer" >
+</body>
+<div id="footer">
 <p>Page made for
 <a href="http://tuftsdev.github.com/WebProgramming/">COMP 20</a>
 </p>
 </div>
-</body>
 
 </html>

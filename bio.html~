@@ -6,12 +6,11 @@
 <link rel = "stylesheet" media = "(max-device-width: 960px)" href = "mobilesheet.css" />
 <link rel = "stylesheet" media = "(min-device-width: 961px)" href = "desksheet.css" />
 </head>
-<body>
 <div id="pagetitle">
 <p>Biography</p>
 </div>
-
-<div id="text2">
+<body>
+<div id="text">
 <p>
 Hello! My name is Haris Iqbal and I am from Islamabad, the capital city of 
 Pakistan. I have come to the United States for my Undergraduate Education, 
@@ -24,12 +23,11 @@ Kite Runner, especially because of the poignant plot, and the beautiful writing.
 I love going out into the city, and trying out new places with different 
 cuisines. My favortie genres in terms of music are house, techno and trance.
 </p></div>
-
+</body>
 <div id="footer">
 <p>
 <a href="index.html">Home</a>
 </p>
 </div>
-</body>
 
 </html>
