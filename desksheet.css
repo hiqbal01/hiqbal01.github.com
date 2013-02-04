@@ -41,7 +41,7 @@ body{
 }
 a{
 	text-decoration:none;
-	color:#0066FF;
+	color:#6699FF;
 }
 IMG.displayed{
 	display:block;
@@ -55,7 +55,7 @@ IMG.displayed{
 
 }
 #headings{
-	color:#0066ff;
+	color:#6699ff;
 	font-size:20pt;
 	text-align:left;
 
@@ -63,7 +63,7 @@ IMG.displayed{
   Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 #headings2{
-	color:#0066ff;
+	color:#6699ff;
 	font-size:20pt;
 	text-align:left;
 
@@ -71,7 +71,7 @@ IMG.displayed{
   Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 #headings3{
-	color:#0066ff;
+	color:#6699ff;
 	font-size:20pt;
 	text-align:left;
 
@@ -79,7 +79,7 @@ IMG.displayed{
   Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 #headings4{
-	color:#0066ff;
+	color:#6699ff;
 	font-size:20pt;
 	text-align:left;
 
@@ -87,14 +87,14 @@ IMG.displayed{
   Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 #headings5{
-	color:#0066ff;
+	color:#6699ff;
 	font-size:20pt;
 	text-align:left;
 
 	font-family: "HelveticaNeue-Ultralight", "Helvetica Neue Ultralight", "Helvetica Neue",
   Helvetica, Arial, "Lucida Grande", sans-serif;
 }#headings6{
-	color:#0066ff;
+	color:#6699ff;
 	font-size:20pt;
 	text-align:left;
 
