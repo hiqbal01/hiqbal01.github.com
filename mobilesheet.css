@@ -1,6 +1,6 @@
 #pagetitle{
 color:white;
-font-size:80pt;
+font-size:60pt;
 text-align:center;
 font-family: "HelveticaNeue-Ultralight", "Helvetica Neue Ultralight", "Helvetica Neue",
   Helvetica, Arial, "Lucida Grande", sans-serif;
@@ -19,7 +19,8 @@ font-family: "HelveticaNeue-Ultralight", "Helvetica Neue Ultralight", "Helvetica
 }
 
 #footer {
-position: absolute;
+position: relative;
+top:100px;
 bottom: 0;
 width: 100%;
 height: 50px;
@@ -51,7 +52,7 @@ border: 8px solid #000;
 border-radius: 40px;
 -moz-border-radius: 40px;
 -webkit-border-radius: 40px;
--webkit-transform: scale(1.5)
+-webkit-transform: scale(0.8)
 
 }
 #headings{
@@ -112,8 +113,5 @@ font-family: "HelveticaNeue-Ultralight", "Helvetica Neue Ultralight", "Helvetica
   Helvetica, Arial, "Lucida Grande", sans-serif;
   
 }
-<<<<<<< HEAD
-=======
-  
->>>>>>> f9afc395aeddcf83e9d7868b603339dd2f47e63b
+
 
